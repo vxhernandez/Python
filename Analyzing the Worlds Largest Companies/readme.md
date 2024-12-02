@@ -26,11 +26,11 @@ The dataset was imported into a SQL Server database and queries were used to per
 ### **Visualization and Dashboard Creation:**
 
 The results from SQL queries were exported and visualized using **Tableau**.
-[World's Largest Companies Dashboard](https://public.tableau.com/views/WorldsLargestCompaniesDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [World's Largest Companies Dashboard](https://public.tableau.com/views/WorldsLargestCompaniesDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
       
 [tableau_viz](https://github.com/vxhernandez/Python/blob/main/Analyzing%20the%20Worlds%20Largest%20Companies/largest_companies_dashboard.png)
 
-   - <img src="https://github.com/vxhernandez/Python/blob/main/Analyzing%20the%20Worlds%20Largest%20Companies/largest_companies_dashboard.png" width="750" height="350">
+<img src="https://github.com/vxhernandez/Python/blob/main/Analyzing%20the%20Worlds%20Largest%20Companies/largest_companies_dashboard.png" width="750" height="450">
 
 
  
