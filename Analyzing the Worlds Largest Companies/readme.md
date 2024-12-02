@@ -26,3 +26,4 @@ The dataset was imported into a SQL Server database and queries were used to per
 ### **Visualization and Dashboard Creation:**
 
 The results from SQL queries were exported and visualized using **Tableau**.
+https://public.tableau.com/views/WorldsLargestCompaniesDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
