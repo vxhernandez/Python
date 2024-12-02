@@ -30,4 +30,7 @@ The results from SQL queries were exported and visualized using **Tableau**.
       
 [tableau_viz](https://github.com/vxhernandez/Python/blob/main/Analyzing%20the%20Worlds%20Largest%20Companies/largest_companies_dashboard.png)
 
+   - <img src="https://github.com/vxhernandez/Python/blob/main/Analyzing%20the%20Worlds%20Largest%20Companies/largest_companies_dashboard.png" width="750" height="350">
+
+
  
