@@ -26,9 +26,8 @@ The dataset was imported into a SQL Server database and queries were used to per
 ### **Visualization and Dashboard Creation:**
 
 The results from SQL queries were exported and visualized using **Tableau**.
-  - [World's Largest Companies Dashboard](https://public.tableau.com/views/WorldsLargestCompaniesDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[World's Largest Companies Dashboard](https://public.tableau.com/views/WorldsLargestCompaniesDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
       
-        - ![tableau_viz](https://github.com/vxhernandez/behind_the_wheel/assets/109702488/5e971ff7-5f0d-42ff-8413-29abc679715a)
+[tableau_viz](https://github.com/vxhernandez/Python/blob/main/Analyzing%20the%20Worlds%20Largest%20Companies/largest_companies_dashboard.png)
 
-9.
  
